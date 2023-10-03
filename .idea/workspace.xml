@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6bb2ac8-3735-4cca-b541-35c0bc8ff7f8" name="Changes" comment="" />
+    <list default="true" id="c6bb2ac8-3735-4cca-b541-35c0bc8ff7f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/FlutterLocationPicker.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/FlutterLocationPicker.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,13 +34,14 @@
     "dart.analysis.tool.window.visible": "false",
     "flutter.view.tool.window.visible": "true",
     "io.flutter.reload.alreadyRun": "true",
-    "last_opened_file_path": "/Users/mojtababehzadi/AndroidStudioProjects/OpenStreetMap-flutter/lib",
+    "last_opened_file_path": "/Users/mojtababehzadi/AndroidStudioProjects/OpenStreetMap-flutter",
     "settings.editor.selected.configurable": "http.proxy",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
